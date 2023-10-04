@@ -8,7 +8,8 @@
 ██║...╚═╝...██║.╚██████╔╝..........██║......... ██║......██║........... ███████╗<br>
 ╚═╝................╚═╝...╚═════╝................ ╚═╝.......╚═╝......╚═╝........... ╚══════╝ <br>
 ========================================================================================<br>
-URL: [https://motazorrilla.com/](https://motazorrilla.com/)   </span><br>
+URL: [https://motazorrilla.com/](https://motazorrilla.com/)   <br>
+("If you're viewing this from a phone, please turn the screen horizontally 😉.")
 
 💫 About Me:<br>
 I am an Electrical Engineer and Software Developer. <br>I have a strong background in project management and <br>I am constantly learning and improving my skills.<br>I am passionate about technology and I love creating solutions that help people. <br>I am a natural problem solver and I have a good eye for detail. <br>I am also a good communicator and I work well in teams.<br><br>I am currently working as a developer at the Neobranding Chile agency, where <br>I am involved in a variety of web development projects.<br><br>I am always looking for new opportunities to learn and grow.

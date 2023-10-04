@@ -1,4 +1,4 @@
-<span style="color: green;">    <!-- =======================================================                                                </span>
+<span style="color: green;">    !-- ====================================================================================================    </span>
 <span style="color: green;">      Name: motazorrilla.com                                                                                    </span>
 <span style="color: green;">      URL: https://motazorrilla.com/                                                                            </span>
 <span style="color: green;">      Author: motazorrilla.com                                                                                  </span>
@@ -12,7 +12,7 @@
 <span style="color: green;">      ╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝     </span>
 <span style="color: green;">                                                                                                                </span>
 <span style="color: green;">                                                                                                                </span>
-<span style="color: green;">    ======================================================= -->                                                 </span>
+<span style="color: green;">    =======================================================================================================     </span>
 
 💫 About Me:
 I am an Electrical Engineer and Software Developer. <br>I have a strong background in project management and <br>I am constantly learning and improving my skills.<br>I am passionate about technology and I love creating solutions that help people. <br>I am a natural problem solver and I have a good eye for detail. <br>I am also a good communicator and I work well in teams.<br><br>I am currently working as a developer at the Neobranding Chile agency, where <br>I am involved in a variety of web development projects.<br><br>I am always looking for new opportunities to learn and grow.
